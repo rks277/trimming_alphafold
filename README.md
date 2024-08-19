@@ -1,0 +1,1 @@
+# Notebooks for trimming alphafold predictions
